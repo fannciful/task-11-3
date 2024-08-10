@@ -1,0 +1,14 @@
+html {
+    font-size: 24px;
+}
+
+h2 {
+    padding: 0 25px;
+    font-size: 30px;
+}
+
+.image-container img {
+    padding: 0 25px;
+    width: 300px;
+    height: auto; 
+}
